@@ -1,0 +1,257 @@
+"Sexe","Date_naissance","Age","Etat Civil","Enfants","Distance domicile/Travail","Service","Contrat","Durée hebdo","Temps plein/partiel","Niveau de satisfaction","Ancienneté_an","Work_accident","Salaire base mensuel","tranche salaire mensuel","%variable_moyen","Augmentation","Promotion"
+"F","1976-02-18",45,"Marié",3,"+ de 50 km","Consultant","CDI",35,"temps plein",60,22.5,"Non",9873.5,"9500 et +",13,0,0
+"H","1955-07-01",66,"Célibataire",0,"21 à 50 km","Consultant","CDI",35,"temps plein",39,10.8,"Non",4296.7167,"3501 à 4500",39,0,1
+"F","1970-01-19",52,,1,"+ de 50 km","RH","CDI",35,"temps plein",62,13,"Oui",3705.2167,"3501 à 4500",29,1,1
+"H","1963-10-25",58,"Marié",3,"+ de 50 km","Consultant","CDI",35,"temps plein",98,21.7,"Non",1697.15,"1501 à 2500",17,1,0
+"H","1983-03-04",38,,0,"maxi 20 km","R&D","CDD",35,"temps plein",81,3.3,"Oui",2848.3,"2501 à 3500",15,1,0
+"H","1968-11-07",53,,0,"maxi 20 km","Commercial","CDI",35,"temps plein",47,10.5,"Non",5464.55,"4501 à 5500",34,0,0
+"H","1976-06-26",45,"Célibataire",0,"+ de 50 km","Marketing","CDI",35,"temps plein",34,17.8,"Oui",9999.3833,"9500 et +",27,0,1
+"F","1955-08-01",66,,3,"21 à 50 km","RH","CDI",24,"temps partiel",48,8.2,"Oui",3116.88,"2501 à 3500",37,0,1
+"H","1985-08-09",36,"Célibataire",2,"+ de 50 km","Marketing","CDI",24,"temps partiel",25,7.5,"Non",5462.08,"4501 à 5500",39,0,1
+"H","1979-03-09",42,,2,"+ de 50 km","Compta Finances","CDI",35,"temps plein",89,18.9,"Oui",2769.4333,"2501 à 3500",33,0,0
+"F","1955-04-07",66,,2,"+ de 50 km","RH","CDI",35,"temps plein",7,5.9,"Oui",5522.1833,"5501 à 6500",9,1,1
+"F","1979-01-19",43,,3,"+ de 50 km","Consultant","CDI",35,"temps plein",24,20.2,"Non",7308.8167,"6501 à 7500",12,0,1
+"F","1965-02-04",56,,3,"+ de 50 km","Commercial","CDI",24,"temps partiel",15,22.4,"Non",5895.76,"5501 à 6500",23,1,1
+"H","1963-04-19",58,"Marié",0,"maxi 20 km","R&D","CDI",35,"temps plein",31,20,"Non",7081.3167,"6501 à 7500",26,0,1
+"H","1970-03-23",51,"Célibataire",1,"21 à 50 km","Commercial","CDI",35,"temps plein",56,13.1,"Oui",6195.5833,"5501 à 6500",23,0,1
+"H","1971-08-12",50,"Marié",1,"maxi 20 km","Marketing","CDI",35,"temps plein",81,23.3,"Non",5517.6333,"5501 à 6500",23,1,1
+"H","1979-09-12",42,"Célibataire",2,"21 à 50 km","R&D","CDI",35,"temps plein",35,15.2,"Non",8458.45,"7501 à  8500",1,0,0
+"F","1970-08-15",51,"Célibataire",3,"maxi 20 km","Consultant","CDI",35,"temps plein",60,3.2,"Oui",2132.4333,"1501 à 2500",18,1,1
+"F","1955-07-07",66,"Célibataire",1,"+ de 50 km","Consultant","CDI",35,"temps plein",19,25,"Non",3097.0333,"2501 à 3500",13,0,0
+"F","1955-03-03",66,"Célibataire",2,"21 à 50 km","Compta Finances","CDI",35,"temps plein",32,16.3,"Oui",8218.8167,"7501 à  8500",14,0,1
+"F","1971-12-09",50,"Célibataire",1,"maxi 20 km","Consultant","CDI",35,"temps plein",51,8.4,"Oui",5388.7167,"4501 à 5500",30,1,0
+"H","1969-02-18",52,,1,"21 à 50 km","Consultant","CDI",35,"temps plein",45,12.2,"Oui",1873.0833,"1501 à 2500",27,0,0
+"F","1968-08-18",53,"Marié",0,"21 à 50 km","Commercial","CDI",35,"temps plein",60,15.8,"Oui",4152.6333,"3501 à 4500",7,1,1
+"H","1958-07-19",63,"Célibataire",3,"21 à 50 km","R&D","CDI",35,"temps plein",8,5.8,"Oui",9096.9667,"8500 à 9500",21,0,1
+"H","1960-01-26",62,"Célibataire",2,"+ de 50 km","Marketing","CDI",35,"temps plein",64,15.6,"Oui",7264.8333,"6501 à 7500",31,0,1
+"F","1987-04-23",34,"Célibataire",0,"+ de 50 km","Compta Finances","CDI",35,"temps plein",12,5.3,"Oui",2052.05,"1501 à 2500",13,1,1
+"F","1967-10-08",54,"Célibataire",0,"21 à 50 km","Consultant","CDD",32,"temps partiel",6,1.3,"Oui",2496,"1501 à 2500",21,,
+"H","1955-07-16",66,,3,"21 à 50 km","RH","CDI",35,"temps plein",88,9.2,"Oui",2767.9167,"2501 à 3500",6,1,0
+"H","1986-05-08",35,"Célibataire",2,"maxi 20 km","RH","CDI",35,"temps plein",65,3.1,"Non",3486.8167,"2501 à 3500",19,0,1
+"H","1966-10-12",55,"Marié",0,"maxi 20 km","Consultant","CDI",24,"temps partiel",87,10.3,"Oui",1709.76,"1501 à 2500",10,1,1
+"F","1958-10-22",63,"Marié",2,"maxi 20 km","Commercial","CDI",35,"temps plein",67,6.8,"Oui",3165.2833,"2501 à 3500",0,0,1
+"H","1969-10-23",52,"Marié",1,"21 à 50 km","Marketing","CDI",35,"temps plein",70,22.8,"Oui",6002.9667,"5501 à 6500",2,1,1
+"H","1987-07-01",34,"Célibataire",3,"maxi 20 km","Marketing","CDI",35,"temps plein",22,8.2,"Oui",2998.45,"2501 à 3500",21,1,1
+"H","1968-06-26",53,"Célibataire",2,"+ de 50 km","RH","CDI",35,"temps plein",92,24,"Oui",3508.05,"3501 à 4500",11,0,1
+"H","1975-10-18",46,"Marié",1,"maxi 20 km","Consultant","CDI",35,"temps plein",36,24.4,"Non",3232.0167,"2501 à 3500",35,0,0
+"H","1972-03-31",49,"Célibataire",0,"21 à 50 km","Consultant","CDI",28,"temps partiel",15,23.7,"Oui",1851.5467,"1501 à 2500",19,0,1
+"H","1956-06-19",65,,1,"21 à 50 km","RH","CDI",35,"temps plein",80,15.7,"Non",5359.9,"4501 à 5500",4,1,0
+"H","1974-01-31",47,"Marié",2,"+ de 50 km","Commercial","CDI",35,"temps plein",11,18.4,"Non",9069.6667,"8500 à 9500",1,0,0
+"F","1957-08-10",64,,1,"+ de 50 km","Compta Finances","CDI",35,"temps plein",70,6,"Oui",7377.0667,"6501 à 7500",17,1,1
+"F","1978-10-18",43,"Célibataire",0,"21 à 50 km","RH","CDI",35,"temps plein",6,3.7,"Oui",7157.15,"6501 à 7500",3,0,0
+"H","1961-01-05",61,"Marié",0,"21 à 50 km","Commercial","CDI",35,"temps plein",80,15.6,"Non",8714.7667,"8500 à 9500",37,1,0
+"F","1991-01-30",30,,2,"21 à 50 km","Consultant","CDI",35,"temps plein",95,9.3,"Non",2070.25,"1501 à 2500",24,0,0
+"H","1968-01-11",54,,3,"21 à 50 km","Compta Finances","CDI",35,"temps plein",70,15.7,"Non",8073.2167,"7501 à  8500",38,1,1
+"H","1976-07-20",45,,0,"21 à 50 km","Consultant","CDI",35,"temps plein",69,17.1,"Non",1651.65,"1501 à 2500",18,0,0
+"F","1972-12-02",49,,1,"21 à 50 km","Consultant","CDI",35,"temps plein",90,17.4,"Oui",4516.6333,"4501 à 5500",34,1,0
+"H","1968-12-16",53,"Célibataire",2,"maxi 20 km","Compta Finances","CDI",35,"temps plein",56,17.2,"Oui",3383.6833,"2501 à 3500",23,0,0
+"F","1971-08-30",50,"Marié",3,"21 à 50 km","Consultant","CDD",35,"temps plein",18,1.4,"Non",3168.3167,"2501 à 3500",10,,
+"H","1965-07-14",56,"Marié",1,"+ de 50 km","RH","CDI",35,"temps plein",46,5.8,"Oui",4499.95,"3501 à 4500",22,1,0
+"H","1980-11-25",41,,0,"+ de 50 km","Marketing","CDD",35,"temps plein",19,1.4,"Non",1989.8667,"1501 à 2500",5,,
+"F","1983-05-28",38,"Célibataire",3,"+ de 50 km","Marketing","CDI",35,"temps plein",67,2.5,"Non",1863.9833,"1501 à 2500",12,1,1
+"F","1971-02-26",50,,1,"21 à 50 km","R&D","CDI",35,"temps plein",74,9.1,"Oui",9366.9333,"8500 à 9500",8,1,1
+"H","1959-11-30",62,"Célibataire",1,"21 à 50 km","Marketing","CDI",24,"temps partiel",1,23.9,"Non",6842.16,"6501 à 7500",21,1,1
+"F","1971-12-31",50,"Marié",3,"+ de 50 km","Commercial","CDD",35,"temps plein",58,1.7,"Oui",3185,"2501 à 3500",3,,
+"H","1970-04-22",51,"Marié",2,"21 à 50 km","Marketing","CDI",35,"temps plein",81,22.4,"Non",3582.3667,"3501 à 4500",30,1,1
+"H","1962-02-08",59,"Marié",3,"21 à 50 km","Compta Finances","CDI",35,"temps plein",17,8.2,"Non",1833.65,"1501 à 2500",8,0,1
+"F","1982-02-02",39,"Marié",1,"21 à 50 km","R&D","CDI",35,"temps plein",4,4.2,"Oui",6356.35,"5501 à 6500",26,1,0
+"F","1956-03-17",65,"Marié",2,"maxi 20 km","Consultant","CDD",35,"temps plein",24,0.4,"Oui",3033.3333,"2501 à 3500",8,,
+"F","1975-12-05",46,"Marié",3,"21 à 50 km","Consultant","CDI",35,"temps plein",77,3.8,"Non",7672.8167,"7501 à  8500",37,1,1
+"H","1966-12-09",55,,0,"maxi 20 km","Consultant","CDI",24,"temps partiel",30,6.3,"Oui",1110.72,"0 à 1500",14,1,1
+"H","1963-11-12",58,,3,"maxi 20 km","Consultant","CDI",24,"temps partiel",51,7.3,"Oui",5448.56,"4501 à 5500",30,0,1
+"H","1979-10-06",42,,1,"maxi 20 km","Compta Finances","CDI",35,"temps plein",15,19,"Non",1835.1667,"1501 à 2500",6,0,1
+"F","1958-01-26",64,,1,"21 à 50 km","Compta Finances","CDI",35,"temps plein",32,10.3,"Non",8056.5333,"7501 à  8500",13,0,1
+"H","1965-01-22",57,"Marié",1,"+ de 50 km","Consultant","CDI",35,"temps plein",72,7.4,"Oui",9737,"9500 et +",12,1,1
+"F","1977-11-13",44,,1,"21 à 50 km","Commercial","CDI",35,"temps plein",86,23.9,"Oui",5581.3333,"5501 à 6500",20,1,0
+"F","1984-03-19",37,,2,"+ de 50 km","RH","CDI",35,"temps plein",46,16.2,"Non",5056.5667,"4501 à 5500",24,1,1
+"H","1987-06-30",34,"Marié",0,"21 à 50 km","RH","CDI",35,"temps plein",1,10.7,"Oui",9039.3333,"8500 à 9500",20,1,1
+"F","1964-01-26",58,"Célibataire",1,"maxi 20 km","Commercial","CDD",35,"temps plein",76,1.9,"Oui",2881.6667,"2501 à 3500",27,,
+"H","1987-05-23",34,"Célibataire",0,"21 à 50 km","RH","CDI",35,"temps plein",29,9.7,"Non",6175.8667,"5501 à 6500",38,0,1
+"F","1967-01-03",55,"Marié",1,"maxi 20 km","Marketing","CDD",35,"temps plein",70,0.6,"Oui",2426.6667,"1501 à 2500",21,,
+"F","1956-02-26",65,"Marié",1,"maxi 20 km","Compta Finances","CDI",35,"temps plein",65,23,"Oui",7898.8,"7501 à  8500",35,0,1
+"H","1970-11-03",51,"Célibataire",2,"+ de 50 km","Consultant","CDI",35,"temps plein",1,21.1,"Oui",9447.3167,"8500 à 9500",0,1,1
+"H","1968-08-03",53,"Marié",2,"maxi 20 km","Commercial","CDI",35,"temps plein",62,21.6,"Oui",2396.3333,"1501 à 2500",11,0,1
+"H","1984-02-13",37,"Marié",1,"21 à 50 km","R&D","CDI",35,"temps plein",93,8.3,"Non",8716.2833,"8500 à 9500",20,0,0
+"F","1968-08-10",53,"Marié",2,"21 à 50 km","Consultant","CDI",35,"temps plein",3,16.2,"Oui",2731.5167,"2501 à 3500",4,1,1
+"F","1971-04-10",50,"Célibataire",3,"21 à 50 km","Commercial","CDI",35,"temps plein",78,10.8,"Oui",7942.7833,"7501 à  8500",38,1,0
+"H","1983-10-17",38,"Célibataire",2,"+ de 50 km","Consultant","CDI",35,"temps plein",89,6.5,"Oui",7178.3833,"6501 à 7500",38,1,0
+"F","1983-08-14",38,"Marié",1,"21 à 50 km","Consultant","CDI",35,"temps plein",50,15.7,"Non",5585.8833,"5501 à 6500",17,1,0
+"H","1979-04-28",42,"Marié",0,"+ de 50 km","RH","CDI",35,"temps plein",78,20.4,"Non",8277.9667,"7501 à  8500",10,0,0
+"F","1981-07-27",40,,1,"maxi 20 km","Commercial","CDI",35,"temps plein",52,12.8,"Oui",2369.0333,"1501 à 2500",20,0,0
+"H","1976-08-04",45,,0,"maxi 20 km","Marketing","CDI",35,"temps plein",99,20.6,"Oui",3462.55,"2501 à 3500",3,1,0
+"H","1979-01-06",43,"Marié",2,"21 à 50 km","Commercial","CDI",35,"temps plein",79,9.2,"Oui",2511.6,"2501 à 3500",21,0,1
+"H","1961-10-23",60,"Marié",1,"maxi 20 km","Consultant","CDI",35,"temps plein",25,20.1,"Non",9400.3,"8500 à 9500",3,1,1
+"F","1971-03-25",50,,1,"maxi 20 km","Marketing","CDD",35,"temps plein",96,1.1,"Oui",3640,"3501 à 4500",6,,
+"F","1968-03-31",53,,2,"21 à 50 km","Consultant","CDI",35,"temps plein",47,5.5,"Non",1774.5,"1501 à 2500",16,1,1
+"F","1977-06-19",44,,2,"+ de 50 km","Marketing","CDI",35,"temps plein",38,16.8,"Oui",3597.5333,"3501 à 4500",32,1,1
+"F","1966-11-27",55,,0,"+ de 50 km","Marketing","CDI",24,"temps partiel",1,8.2,"Oui",5951.92,"5501 à 6500",32,1,0
+"F","1990-05-20",31,"Célibataire",1,"maxi 20 km","Compta Finances","CDD",35,"temps plein",45,0.8,"Oui",3201.6833,"2501 à 3500",38,,
+"H","1962-09-30",59,"Marié",3,"maxi 20 km","RH","CDI",35,"temps plein",90,7.5,"Non",3335.15,"2501 à 3500",28,1,0
+"F","1976-11-16",45,"Célibataire",0,"+ de 50 km","Consultant","CDI",35,"temps plein",46,12,"Oui",4712.2833,"4501 à 5500",26,1,1
+"H","1970-09-22",51,"Célibataire",3,"+ de 50 km","Commercial","CDI",35,"temps plein",17,24.9,"Non",5984.7667,"5501 à 6500",6,0,1
+"F","1962-07-12",59,"Marié",1,"21 à 50 km","Commercial","CDI",35,"temps plein",97,5.3,"Oui",2928.6833,"2501 à 3500",33,1,1
+"F","1958-11-15",63,,1,"21 à 50 km","Consultant","CDI",35,"temps plein",39,9.7,"Oui",6301.75,"5501 à 6500",34,0,1
+"F","1966-11-02",55,"Marié",3,"21 à 50 km","RH","CDI",35,"temps plein",23,19.3,"Non",3218.3667,"2501 à 3500",27,1,0
+"H","1984-10-29",37,"Célibataire",3,"+ de 50 km","Consultant","CDI",35,"temps plein",81,4.4,"Oui",1803.3167,"1501 à 2500",8,1,0
+"H","1962-11-22",59,"Marié",3,"maxi 20 km","RH","CDI",35,"temps plein",84,12.7,"Oui",7263.3167,"6501 à 7500",30,1,0
+"F","1960-08-22",61,"Célibataire",2,"+ de 50 km","Marketing","CDI",35,"temps plein",40,4.2,"Oui",2912,"2501 à 3500",35,0,1
+"H","1963-05-31",58,,2,"21 à 50 km","Consultant","CDI",35,"temps plein",80,7.1,"Non",6409.4333,"5501 à 6500",21,0,1
+"H","1965-11-19",56,,3,"21 à 50 km","Compta Finances","CDI",35,"temps plein",44,16.4,"Non",1772.9833,"1501 à 2500",20,1,1
+"F","1981-10-22",40,"Marié",3,"21 à 50 km","Commercial","CDI",35,"temps plein",21,17.3,"Non",6902.35,"6501 à 7500",17,0,1
+"H","1986-01-27",36,,0,"maxi 20 km","Consultant","CDI",24,"temps partiel",33,5.6,"Oui",4795.44,"4501 à 5500",19,0,1
+"H","1974-03-13",47,,1,"maxi 20 km","RH","CDI",35,"temps plein",39,20.4,"Non",3803.8,"3501 à 4500",30,0,0
+"F","1979-11-16",42,"Célibataire",2,"21 à 50 km","Consultant","CDI",35,"temps plein",1,11.7,"Non",3547.4833,"3501 à 4500",39,1,0
+"F","1978-04-11",43,"Célibataire",2,"21 à 50 km","Commercial","CDI",35,"temps plein",98,10.2,"Non",2916.55,"2501 à 3500",35,1,1
+"F","1982-02-10",39,"Marié",1,"maxi 20 km","Compta Finances","CDI",24,"temps partiel",68,11.9,"Non",1059.76,"0 à 1500",1,0,1
+"H","1971-05-03",50,"Célibataire",2,"21 à 50 km","Commercial","CDI",35,"temps plein",42,10,"Oui",7927.6167,"7501 à  8500",32,1,0
+"F","1978-06-26",43,,3,"21 à 50 km","Compta Finances","CDI",35,"temps plein",42,5.2,"Non",8332.5667,"7501 à  8500",12,0,0
+"F","1973-11-16",48,"Marié",1,"21 à 50 km","Marketing","CDI",35,"temps plein",74,22.3,"Non",4082.8667,"3501 à 4500",28,0,1
+"H","1981-07-16",40,"Célibataire",1,"21 à 50 km","Commercial","CDI",35,"temps plein",40,17.2,"Oui",9785.5333,"9500 et +",28,0,1
+"H","1965-02-12",56,"Célibataire",3,"maxi 20 km","Compta Finances","CDI",35,"temps plein",28,14.2,"Non",4421.0833,"3501 à 4500",6,1,1
+"H","1969-09-09",52,"Marié",1,"maxi 20 km","Consultant","CDI",35,"temps plein",69,12.5,"Non",2843.75,"2501 à 3500",2,0,0
+"H","1974-02-10",47,"Marié",2,"+ de 50 km","RH","CDI",35,"temps plein",87,21.5,"Oui",8563.1,"8500 à 9500",7,0,0
+"H","1967-02-27",54,,0,"21 à 50 km","Compta Finances","CDI",35,"temps plein",52,22.2,"Non",4988.3167,"4501 à 5500",8,0,0
+"H","1967-06-19",54,"Marié",2,"+ de 50 km","Consultant","CDI",28,"temps partiel",5,9.2,"Oui",7269.08,"6501 à 7500",7,1,1
+"H","1989-04-05",32,"Marié",0,"21 à 50 km","Marketing","CDI",35,"temps plein",32,12.4,"Non",1669.85,"1501 à 2500",22,1,0
+"H","1968-02-26",53,"Célibataire",1,"21 à 50 km","Commercial","CDI",35,"temps plein",39,23.2,"Oui",7098,"6501 à 7500",1,1,1
+"H","1957-12-14",64,,1,"+ de 50 km","R&D","CDI",35,"temps plein",4,22.8,"Oui",6526.2167,"6501 à 7500",36,0,1
+"F","1963-09-23",58,,0,"+ de 50 km","Compta Finances","CDI",35,"temps plein",96,11.7,"Oui",8422.05,"7501 à  8500",38,0,1
+"H","1982-07-07",39,,0,"21 à 50 km","Commercial","CDI",35,"temps plein",14,6.3,"Oui",8337.1167,"7501 à  8500",16,0,1
+"F","1975-09-21",46,"Marié",0,"+ de 50 km","Commercial","CDI",35,"temps plein",13,10.5,"Non",9777.95,"9500 et +",4,1,0
+"H","1979-02-23",42,"Marié",1,"21 à 50 km","Commercial","CDI",35,"temps plein",95,22.6,"Non",3677.9167,"3501 à 4500",33,0,0
+"H","1976-05-15",45,"Marié",0,"maxi 20 km","Marketing","CDI",35,"temps plein",45,22.7,"Non",9940.2333,"9500 et +",24,0,0
+"H","1959-10-15",62,,1,"maxi 20 km","Consultant","CDI",35,"temps plein",66,23.5,"Oui",2777.0167,"2501 à 3500",10,1,0
+"F","1970-11-03",51,"Marié",2,"21 à 50 km","Commercial","CDI",35,"temps plein",47,24.3,"Non",6818.9333,"6501 à 7500",14,1,0
+"F","1969-05-14",52,"Célibataire",3,"+ de 50 km","Marketing","CDI",35,"temps plein",29,24.2,"Non",4424.1167,"3501 à 4500",30,0,0
+"H","1985-03-27",36,,3,"maxi 20 km","RH","CDI",35,"temps plein",58,10,"Oui",9928.1,"9500 et +",27,1,0
+"F","1959-12-26",62,,1,"maxi 20 km","Compta Finances","CDD",35,"temps plein",84,1.8,"Non",2123.3333,"1501 à 2500",39,,
+"H","1963-03-30",58,"Célibataire",0,"+ de 50 km","Compta Finances","CDI",35,"temps plein",48,15.7,"Non",4263.35,"3501 à 4500",31,0,0
+"F","1969-08-18",52,"Célibataire",0,"21 à 50 km","Commercial","CDI",35,"temps plein",44,19.4,"Non",8629.8333,"8500 à 9500",3,0,0
+"F","1960-12-18",61,"Célibataire",2,"21 à 50 km","R&D","CDI",35,"temps plein",32,24.4,"Oui",4663.75,"4501 à 5500",5,0,1
+"F","1980-06-05",41,"Marié",0,"+ de 50 km","RH","CDI",24,"temps partiel",11,20.6,"Oui",4851.6,"4501 à 5500",14,0,0
+"H","1973-09-24",48,"Marié",3,"21 à 50 km","Marketing","CDI",35,"temps plein",37,5.9,"Non",5930.1667,"5501 à 6500",33,0,0
+"F","1975-04-13",46,"Marié",0,"+ de 50 km","Commercial","CDI",35,"temps plein",77,21.9,"Non",7496.8833,"6501 à 7500",6,1,0
+"F","1983-10-08",38,,1,"+ de 50 km","RH","CDI",35,"temps plein",69,11.7,"Oui",8108.1,"7501 à  8500",38,0,0
+"H","1978-11-01",43,,0,"21 à 50 km","Commercial","CDI",35,"temps plein",7,20.5,"Oui",6121.2667,"5501 à 6500",32,0,0
+"F","1968-05-04",53,"Célibataire",1,"+ de 50 km","Marketing","CDI",35,"temps plein",51,16.2,"Oui",4563.65,"4501 à 5500",38,1,0
+"H","1970-07-25",51,"Célibataire",0,"21 à 50 km","Compta Finances","CDI",35,"temps plein",78,13,"Oui",9978.15,"9500 et +",34,0,1
+"H","1977-10-12",44,"Marié",1,"21 à 50 km","Marketing","CDI",35,"temps plein",92,10.2,"Non",4624.3167,"4501 à 5500",15,0,0
+"F","1968-08-05",53,"Marié",0,"21 à 50 km","Compta Finances","CDI",35,"temps plein",40,13.7,"Oui",2079.35,"1501 à 2500",7,1,1
+"H","1956-09-14",65,,2,"21 à 50 km","Consultant","CDI",24,"temps partiel",37,13.2,"Non",2055.04,"1501 à 2500",12,0,1
+"H","1969-12-31",52,,1,"21 à 50 km","Commercial","CDI",35,"temps plein",48,18.7,"Oui",9573.2,"9500 et +",7,0,0
+"F","1955-02-10",66,"Marié",0,"21 à 50 km","Consultant","CDI",35,"temps plein",82,12.6,"Oui",4289.1333,"3501 à 4500",12,0,1
+"F","1968-05-14",53,,1,"21 à 50 km","Marketing","CDI",35,"temps plein",75,21.8,"Oui",8056.5333,"7501 à  8500",14,0,0
+"H","1977-07-06",44,"Marié",2,"21 à 50 km","Marketing","CDD",35,"temps plein",25,0.3,"Non",3693.0833,"3501 à 4500",24,,
+"F","1968-03-07",53,"Célibataire",3,"21 à 50 km","RH","CDI",35,"temps plein",77,9.8,"Non",5106.6167,"4501 à 5500",10,0,1
+"H","1966-11-28",55,"Célibataire",1,"maxi 20 km","Consultant","CDD",32,"temps partiel",100,1.2,"Non",2357.3333,"1501 à 2500",12,,
+"F","1981-02-25",40,"Marié",1,"21 à 50 km","Commercial","CDI",35,"temps plein",42,17,"Oui",3260.8333,"2501 à 3500",30,1,0
+"H","1966-01-22",56,"Marié",3,"maxi 20 km","Consultant","CDI",35,"temps plein",2,2.9,"Non",4449.9,"3501 à 4500",33,1,1
+"F","1971-04-19",50,,3,"21 à 50 km","RH","CDI",35,"temps plein",63,22.2,"Non",7877.5667,"7501 à  8500",36,1,0
+"H","1980-06-13",41,"Marié",3,"+ de 50 km","Consultant","CDI",35,"temps plein",50,8.3,"Non",4281.55,"3501 à 4500",13,1,0
+"H","1977-06-23",44,"Célibataire",0,"+ de 50 km","Consultant","CDI",35,"temps plein",34,22.8,"Non",4134.4333,"3501 à 4500",22,0,0
+"F","1963-03-08",58,"Marié",3,"maxi 20 km","Marketing","CDI",35,"temps plein",25,8.8,"Non",3256.2833,"2501 à 3500",34,0,0
+"F","1957-07-05",64,"Célibataire",1,"+ de 50 km","Consultant","CDI",35,"temps plein",63,20.2,"Oui",6591.4333,"6501 à 7500",19,0,0
+"H","1957-02-19",64,,3,"+ de 50 km","Compta Finances","CDI",35,"temps plein",26,8.7,"Oui",8696.5667,"8500 à 9500",37,0,1
+"F","1974-03-20",47,"Célibataire",2,"maxi 20 km","Consultant","CDI",35,"temps plein",59,21.1,"Non",2073.2833,"1501 à 2500",28,0,1
+"H","1974-02-08",47,"Marié",0,"21 à 50 km","Consultant","CDI",28,"temps partiel",62,9.3,"Non",5097.2133,"4501 à 5500",10,1,0
+"H","1981-02-15",40,"Marié",2,"+ de 50 km","RH","CDI",35,"temps plein",86,7.5,"Oui",7710.7333,"7501 à  8500",27,0,1
+"H","1985-03-18",36,"Marié",1,"21 à 50 km","RH","CDI",35,"temps plein",49,11.8,"Non",3882.6667,"3501 à 4500",1,0,1
+"F","1962-02-15",59,"Célibataire",3,"maxi 20 km","RH","CDI",35,"temps plein",99,14.9,"Oui",3835.65,"3501 à 4500",26,0,1
+"F","1960-02-03",61,"Marié",1,"maxi 20 km","Compta Finances","CDI",35,"temps plein",84,7.4,"Non",9256.2167,"8500 à 9500",1,1,0
+"H","1965-01-09",57,"Célibataire",3,"maxi 20 km","Consultant","CDI",35,"temps plein",8,19,"Oui",5455.45,"4501 à 5500",7,0,1
+"H","1965-04-04",56,"Célibataire",2,"+ de 50 km","Commercial","CDI",35,"temps plein",44,20,"Oui",8428.1167,"7501 à  8500",18,1,0
+"H","1978-03-24",43,,1,"+ de 50 km","Consultant","CDI",35,"temps plein",94,5.8,"Oui",5810.35,"5501 à 6500",36,1,0
+"H","1960-03-14",61,"Marié",1,"21 à 50 km","Marketing","CDI",35,"temps plein",37,15.6,"Non",4022.2,"3501 à 4500",14,0,1
+"H","1960-11-25",61,"Marié",3,"+ de 50 km","RH","CDI",35,"temps plein",95,24,"Oui",5035.3333,"4501 à 5500",24,0,1
+"F","1965-10-25",56,,1,"+ de 50 km","RH","CDI",35,"temps plein",29,23.9,"Oui",3797.7333,"3501 à 4500",24,0,0
+"H","1960-08-09",61,"Célibataire",0,"21 à 50 km","RH","CDI",24,"temps partiel",47,21.2,"Non",2735.2,"2501 à 3500",27,0,1
+"F","1977-12-14",44,"Marié",2,"21 à 50 km","Marketing","CDI",35,"temps plein",73,10.8,"Oui",4763.85,"4501 à 5500",7,1,0
+"H","1974-11-04",47,"Marié",3,"+ de 50 km","R&D","CDI",35,"temps plein",54,23.3,"Oui",7654.6167,"7501 à  8500",5,1,1
+"F","1984-02-28",37,"Célibataire",3,"maxi 20 km","Commercial","CDI",35,"temps plein",84,10.6,"Non",8828.5167,"8500 à 9500",17,0,1
+"F","1989-05-06",32,,1,"+ de 50 km","Compta Finances","CDI",35,"temps plein",44,3.5,"Non",2008.0667,"1501 à 2500",35,0,0
+"F","1984-08-10",37,,2,"21 à 50 km","Compta Finances","CDI",35,"temps plein",14,4.8,"Non",4198.1333,"3501 à 4500",34,1,1
+"F","1959-04-02",62,"Marié",3,"+ de 50 km","Commercial","CDI",35,"temps plein",61,24.7,"Non",3800.7667,"3501 à 4500",9,1,1
+"H","1976-09-11",45,"Célibataire",2,"21 à 50 km","Compta Finances","CDI",35,"temps plein",31,5.5,"Non",1979.25,"1501 à 2500",6,1,1
+"H","1966-03-22",55,"Célibataire",3,"maxi 20 km","Commercial","CDI",35,"temps plein",86,24.2,"Oui",2828.5833,"2501 à 3500",21,0,0
+"H","1967-12-06",54,,2,"21 à 50 km","R&D","CDI",24,"temps partiel",57,23.3,"Oui",6178.64,"5501 à 6500",17,0,0
+"F","1974-09-22",47,"Marié",3,"+ de 50 km","Compta Finances","CDI",32,"temps partiel",6,22.7,"Oui",6743.36,"6501 à 7500",4,0,0
+"F","1965-01-04",57,"Marié",0,"21 à 50 km","Commercial","CDI",24,"temps partiel",1,9.9,"Oui",4882.8,"4501 à 5500",17,1,1
+"H","1979-04-28",42,"Marié",3,"21 à 50 km","Commercial","CDI",35,"temps plein",15,21.1,"Non",5805.8,"5501 à 6500",37,0,0
+"F","1982-06-04",39,,1,"21 à 50 km","Commercial","CDI",35,"temps plein",15,13.9,"Oui",9555,"9500 et +",20,1,0
+"F","1958-07-26",63,,1,"+ de 50 km","Commercial","CDI",35,"temps plein",58,3.8,"Non",2070.25,"1501 à 2500",34,0,0
+"F","1963-05-28",58,"Célibataire",0,"21 à 50 km","RH","CDI",35,"temps plein",55,15.1,"Non",5067.1833,"4501 à 5500",39,1,0
+"H","1963-06-24",58,"Marié",3,"21 à 50 km","Commercial","CDI",35,"temps plein",31,14.3,"Oui",7713.7667,"7501 à  8500",23,1,0
+"H","1960-03-26",61,"Marié",2,"21 à 50 km","R&D","CDI",24,"temps partiel",41,22.6,"Non",4165.2,"3501 à 4500",12,0,1
+"F","1972-10-04",49,"Marié",0,"+ de 50 km","RH","CDI",35,"temps plein",47,17.3,"Non",7687.9833,"7501 à  8500",9,0,0
+"F","1966-09-07",55,"Célibataire",0,"+ de 50 km","Compta Finances","CDI",35,"temps plein",4,9.3,"Oui",4204.2,"3501 à 4500",39,1,1
+"H","1963-04-23",58,,0,"maxi 20 km","Commercial","CDI",35,"temps plein",52,14.9,"Non",9488.2667,"8500 à 9500",38,1,1
+"H","1954-12-07",67,,1,"21 à 50 km","Marketing","CDI",35,"temps plein",69,19.3,"Oui",3655.1667,"3501 à 4500",33,0,1
+"H","1979-03-27",42,"Marié",2,"+ de 50 km","Consultant","CDD",35,"temps plein",59,1.8,"Non",2558.6167,"2501 à 3500",22,,
+"F","1972-04-04",49,,3,"+ de 50 km","Consultant","CDI",35,"temps plein",72,7.2,"Oui",6413.9833,"5501 à 6500",24,1,0
+"F","1969-08-28",52,,3,"21 à 50 km","Consultant","CDI",35,"temps plein",87,5.7,"Non",1703.2167,"1501 à 2500",39,1,0
+"F","1980-05-14",41,"Célibataire",1,"+ de 50 km","Consultant","CDI",35,"temps plein",92,6.6,"Non",2027.7833,"1501 à 2500",19,0,1
+"H","1980-09-09",41,"Marié",3,"+ de 50 km","Marketing","CDI",35,"temps plein",59,13.8,"Non",7637.9333,"7501 à  8500",27,0,0
+"H","1969-02-02",52,"Marié",2,"21 à 50 km","R&D","CDI",35,"temps plein",77,7.9,"Oui",9573.2,"9500 et +",5,1,0
+"H","1956-07-17",65,,2,"+ de 50 km","Compta Finances","CDI",35,"temps plein",66,5.5,"Non",7185.9667,"6501 à 7500",7,1,1
+"F","1963-10-25",58,"Marié",0,"21 à 50 km","RH","CDI",35,"temps plein",20,4.4,"Non",5076.2833,"4501 à 5500",33,0,0
+"F","1983-12-16",38,"Marié",1,"21 à 50 km","Marketing","CDI",35,"temps plein",40,14,"Non",1598.5667,"1501 à 2500",18,0,1
+"H","1966-09-07",55,,0,"21 à 50 km","R&D","CDI",35,"temps plein",32,4.2,"Oui",5212.7833,"4501 à 5500",11,0,0
+"F","1973-10-19",48,"Marié",0,"+ de 50 km","Compta Finances","CDI",35,"temps plein",25,15.8,"Oui",8655.6167,"8500 à 9500",26,1,0
+"H","1959-07-15",62,,2,"21 à 50 km","Consultant","CDI",35,"temps plein",13,7.2,"Oui",3891.7667,"3501 à 4500",32,0,0
+"F","1974-08-11",47,"Célibataire",1,"maxi 20 km","Marketing","CDI",35,"temps plein",69,6.7,"Oui",9218.3,"8500 à 9500",4,0,0
+"F","1964-05-15",57,"Célibataire",3,"maxi 20 km","Commercial","CDI",35,"temps plein",63,8.2,"Non",2309.8833,"1501 à 2500",23,0,0
+"H","1962-10-04",59,"Célibataire",0,"maxi 20 km","RH","CDI",35,"temps plein",3,19,"Non",9642.9667,"9500 et +",17,0,0
+"H","1975-03-10",46,"Célibataire",2,"+ de 50 km","RH","CDI",35,"temps plein",32,6.4,"Oui",9635.3833,"9500 et +",19,1,0
+"F","1965-03-01",56,"Marié",1,"21 à 50 km","Compta Finances","CDI",24,"temps partiel",47,24.8,"Oui",3853.2,"3501 à 4500",9,1,1
+"F","1980-11-04",41,,0,"+ de 50 km","Compta Finances","CDI",35,"temps plein",93,8.1,"Non",4013.1,"3501 à 4500",12,0,1
+"H","1965-03-21",56,"Marié",0,"21 à 50 km","Consultant","CDI",35,"temps plein",99,19.1,"Oui",6973.6333,"6501 à 7500",31,0,1
+"H","1971-04-21",50,"Célibataire",0,"maxi 20 km","Consultant","CDI",35,"temps plein",42,14.2,"Oui",2024.75,"1501 à 2500",4,1,0
+"H","1968-01-15",54,,0,"21 à 50 km","Consultant","CDI",35,"temps plein",68,7,"Non",6398.8167,"5501 à 6500",11,1,0
+"H","1975-02-05",46,,0,"+ de 50 km","Consultant","CDI",35,"temps plein",60,24.2,"Oui",4000.9667,"3501 à 4500",40,1,1
+"H","1973-07-02",48,"Célibataire",2,"+ de 50 km","Consultant","CDI",35,"temps plein",36,16.9,"Oui",6043.9167,"5501 à 6500",3,1,1
+"H","1969-09-13",52,"Célibataire",0,"21 à 50 km","Consultant","CDI",35,"temps plein",89,21.2,"Non",2918.0667,"2501 à 3500",39,1,1
+"H","1971-10-08",50,"Célibataire",2,"21 à 50 km","Commercial","CDI",35,"temps plein",74,19.2,"Oui",6031.7833,"5501 à 6500",39,1,0
+"H","1981-06-19",40,"Marié",0,"21 à 50 km","Consultant","CDI",35,"temps plein",68,17.4,"Oui",2561.65,"2501 à 3500",13,0,0
+"F","1969-11-06",52,,2,"21 à 50 km","RH","CDI",24,"temps partiel",98,16.2,"Oui",2507.44,"2501 à 3500",18,1,1
+"H","1963-03-04",58,,0,"21 à 50 km","Consultant","CDI",35,"temps plein",60,3.4,"Oui",2675.4,"2501 à 3500",20,1,0
+"F","1974-10-16",47,,0,"+ de 50 km","Compta Finances","CDI",35,"temps plein",55,12.5,"Non",7601.5333,"7501 à  8500",19,1,1
+"H","1977-04-24",44,,0,"maxi 20 km","R&D","CDI",35,"temps plein",30,6,"Oui",6494.3667,"5501 à 6500",1,0,0
+"F","1962-06-29",59,"Célibataire",2,"maxi 20 km","RH","CDI",35,"temps plein",15,16.2,"Non",3012.1,"2501 à 3500",19,1,1
+"F","1967-05-17",54,"Marié",3,"+ de 50 km","Compta Finances","CDI",35,"temps plein",94,14.3,"Non",6127.3333,"5501 à 6500",0,1,0
+"H","1955-01-16",67,"Célibataire",3,"+ de 50 km","Consultant","CDI",35,"temps plein",24,6.2,"Non",2834.65,"2501 à 3500",15,1,0
+"F","1971-05-20",50,"Marié",2,"+ de 50 km","Commercial","CDI",35,"temps plein",3,4.6,"Oui",6212.2667,"5501 à 6500",5,1,0
+"F","1985-09-19",36,"Célibataire",3,"maxi 20 km","Commercial","CDI",35,"temps plein",41,3,"Non",6838.65,"6501 à 7500",5,0,0
+"F","1963-09-02",58,,1,"21 à 50 km","Consultant","CDI",35,"temps plein",51,24.7,"Non",5739.0667,"5501 à 6500",6,1,1
+"H","1984-09-10",37,,3,"+ de 50 km","Commercial","CDI",35,"temps plein",41,16.2,"Oui",5949.8833,"5501 à 6500",17,1,0
+"H","1957-07-27",64,"Marié",3,"maxi 20 km","Marketing","CDI",35,"temps plein",89,13.1,"Oui",8696.5667,"8500 à 9500",34,1,0
+"F","1970-07-19",51,,3,"+ de 50 km","Commercial","CDI",35,"temps plein",81,13.8,"Oui",9497.3667,"8500 à 9500",17,1,1
+"H","1963-02-15",58,"Marié",0,"+ de 50 km","Commercial","CDI",35,"temps plein",19,13.8,"Non",5749.6833,"5501 à 6500",17,0,0
+"F","1983-09-27",38,"Célibataire",0,"21 à 50 km","Compta Finances","CDI",35,"temps plein",53,16.5,"Non",7889.7,"7501 à  8500",27,0,1
+"H","1980-06-12",41,"Marié",0,"maxi 20 km","Compta Finances","CDI",35,"temps plein",44,10.3,"Oui",3436.7667,"2501 à 3500",27,1,1
+"H","1981-07-15",40,"Célibataire",3,"21 à 50 km","Compta Finances","CDI",24,"temps partiel",100,18.6,"Non",5724.16,"5501 à 6500",15,1,1
+"F","1980-12-23",41,"Célibataire",3,"maxi 20 km","RH","CDI",35,"temps plein",62,5.2,"Non",8746.6167,"8500 à 9500",19,0,1
+"F","1981-07-20",40,,1,"21 à 50 km","RH","CDI",35,"temps plein",42,7.9,"Oui",7148.05,"6501 à 7500",21,1,1
+"F","1984-03-03",37,,3,"maxi 20 km","Consultant","CDD",35,"temps plein",81,1.1,"Non",2226.4667,"1501 à 2500",2,,
+"H","1987-02-06",34,"Célibataire",2,"21 à 50 km","Marketing","CDI",28,"temps partiel",17,9.9,"Non",7358.8667,"6501 à 7500",31,1,1
+"F","1966-03-03",55,"Marié",2,"21 à 50 km","RH","CDI",24,"temps partiel",73,19.5,"Non",3060.72,"2501 à 3500",6,0,1
+"F","1961-09-02",60,"Célibataire",1,"21 à 50 km","Consultant","CDI",35,"temps plein",25,10.3,"Oui",3459.5167,"2501 à 3500",30,0,0
+"F","1964-10-17",57,"Célibataire",3,"21 à 50 km","Consultant","CDI",35,"temps plein",7,9.1,"Non",9162.1833,"8500 à 9500",17,1,1
+"F","1985-07-22",36,"Marié",3,"21 à 50 km","Compta Finances","CDD",35,"temps plein",18,1.1,"Non",1920.1,"1501 à 2500",17,,
+"H","1973-06-26",48,,2,"+ de 50 km","Compta Finances","CDI",35,"temps plein",96,15.2,"Non",7753.2,"7501 à  8500",21,1,0
+"H","1962-03-13",59,"Célibataire",3,"maxi 20 km","Consultant","CDI",28,"temps partiel",9,13.3,"Non",2813.72,"2501 à 3500",8,1,1
+"H","1974-05-13",47,,0,"21 à 50 km","Marketing","CDI",35,"temps plein",54,24.1,"Non",7184.45,"6501 à 7500",37,1,1
+"H","1956-07-02",65,"Marié",0,"+ de 50 km","Compta Finances","CDI",35,"temps plein",70,20.5,"Oui",2604.1167,"2501 à 3500",32,1,0
+"F","1955-07-03",66,"Marié",3,"maxi 20 km","RH","CDI",35,"temps plein",30,18.6,"Non",5293.1667,"4501 à 5500",39,0,1
+"F","1968-11-19",53,"Célibataire",2,"+ de 50 km","Commercial","CDI",35,"temps plein",38,23.9,"Oui",6163.7333,"5501 à 6500",16,1,1
+"F","1956-03-21",65,"Marié",1,"maxi 20 km","RH","CDI",24,"temps partiel",35,6.7,"Non",4117.36,"3501 à 4500",8,1,1
+"F","1965-12-18",56,"Marié",1,"21 à 50 km","Consultant","CDI",35,"temps plein",9,23.8,"Non",9426.0833,"8500 à 9500",24,1,0
+"F","1974-10-06",47,,0,"21 à 50 km","Commercial","CDI",35,"temps plein",31,23.1,"Oui",5092.9667,"4501 à 5500",11,1,1
+"F","1970-04-29",51,,1,"21 à 50 km","Commercial","CDI",35,"temps plein",54,18.2,"Oui",8126.3,"7501 à  8500",36,1,0
+"F","1973-01-22",49,"Célibataire",0,"21 à 50 km","Consultant","CDI",35,"temps plein",69,6.3,"Non",9782.5,"9500 et +",38,0,1
+"H","1971-02-20",50,"Célibataire",2,"21 à 50 km","Commercial","CDI",35,"temps plein",62,14.9,"Non",1590.9833,"1501 à 2500",30,1,0
+"F","1966-10-06",55,,1,"21 à 50 km","RH","CDI",35,"temps plein",84,8.6,"Oui",7637.9333,"7501 à  8500",21,1,0
+"F","1979-04-26",42,"Marié",0,"+ de 50 km","Consultant","CDI",35,"temps plein",34,7.9,"Non",7304.2667,"6501 à 7500",17,1,0
+"F","1981-10-09",40,"Célibataire",1,"+ de 50 km","Compta Finances","CDI",35,"temps plein",60,10.2,"Non",8328.0167,"7501 à  8500",14,1,0
+"F","1973-08-19",48,"Célibataire",3,"+ de 50 km","RH","CDI",32,"temps partiel",59,11.9,"Non",8860.8,"8500 à 9500",19,1,1
+"F","1957-04-23",64,"Célibataire",2,"21 à 50 km","Commercial","CDI",24,"temps partiel",66,11.8,"Oui",4974.32,"4501 à 5500",32,0,1
+"F","1958-12-07",63,,2,"+ de 50 km","Marketing","CDI",35,"temps plein",67,12.6,"Non",6583.85,"6501 à 7500",13,1,1
